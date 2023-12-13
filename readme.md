@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Satyam Tripathi</h1>
 <h3 align="center">A passionate Coding Enthusiast and a  ML AI learner.</h3>
 
-- 🌱 I’m currently learning **DATA SCIENCE AND ITS RELATED FIELD**
+- 🌱 I’m currently learning **BCA**
 
-- 📫 How to reach me **rockingravi3507@gmail.com**
+- 📫 How to reach me **trisatyam786@gmail.com**
 
 
 
